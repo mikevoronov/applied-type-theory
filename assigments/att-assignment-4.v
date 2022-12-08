@@ -58,7 +58,7 @@ Definition div2 (m n : nat) : nat :=
 (*
     5 балла,
     деление чисел,
-    div 5 3 = 2
+    div 5 3 = 1
     div 3 5 = 0
 *)
 Definition div (m n : nat) : nat :=
